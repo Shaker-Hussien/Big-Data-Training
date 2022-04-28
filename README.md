@@ -1,4 +1,4 @@
-# Big Data Training
+# Big Data Analytics and Modeling Training
 
 <br><br>
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
